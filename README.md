@@ -1,5 +1,5 @@
 - 💞️ Hi, I’m @claudiagiraldo
-- 👀 I’m interested in Data Science, Machine Learning and Deep Learning!
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently finishing my bachelor's degree on Industrial Engineering
 - 📫 How to reach me: clgiraldov@gmail.com
 
